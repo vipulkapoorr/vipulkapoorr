@@ -11,7 +11,7 @@ Hello! My name is Vipul Kapoor. I am currently pursuing my Bachelor's in Compute
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/vipulkapoor/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/vipul-kapoor-466875253/)
 <!-- Add other buttons if necessary -->
 
 Feel free to connect with me on LinkedIn to discuss networking, CCNA, or any other related topics. I am always open to new connections and exciting opportunities.
